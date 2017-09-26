@@ -1,1 +1,1 @@
-# Video recording - download to browser
+# Video recording - with plugin
